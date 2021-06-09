@@ -1,3 +1,4 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoo-jean&repo=happyproject)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoo-jean&show_icons=true&theme=dracula) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoo-jean&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
