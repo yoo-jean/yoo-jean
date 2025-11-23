@@ -1,12 +1,6 @@
 
 📫 How to reach me: u_z1nee@naver.com <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoo-jean&show_icons=true&theme=dracula) <br>
-
-
-
-
-
 
 
 
